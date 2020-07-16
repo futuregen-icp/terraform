@@ -1,4 +1,4 @@
-## erraform install
+## terraform install
 
 ```
 https://www.terraform.io/downloads.html
